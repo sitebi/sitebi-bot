@@ -11,8 +11,10 @@
 * ikutin perintah installnya sampai beres
 
 ## download file bot 
+* buka https://github.com/sitebi/sitebi-bot
+* click tombol code berwarna hijau diatas kanan website
 * donwload zip 
-* kemudian extract
+* kemudian extract file zip tersebut
 
 ## jalankan bot
 * buka folder file bot berada
