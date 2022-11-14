@@ -1,15 +1,15 @@
 ## donwload nodejs
-silahkan download nodejs di https://nodejs.org/en/download/
-\npilih sesuai dengan os masing masing
-\nikutin perintah installnya sampai beres
+*silahkan download nodejs di https://nodejs.org/en/download/
+*npilih sesuai dengan os masing masing
+*ikutin perintah installnya sampai beres
 
 ## download file bot 
-donwload zip 
-\nkemudian extract
+* donwload zip 
+* kemudian extract
 
 ## jalankan bot
-buka folder file bot berada
-\nbuka cmd
+*buka folder file bot berada
+*buka cmd
 ### download node_module
 ```bash
  npm install
