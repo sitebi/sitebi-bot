@@ -1,15 +1,22 @@
+## login kedalam Remote Desktop Connection
+* masukan alamat email Remote Desktop Connection
+* buka advance settings
+* masukan username Remote Desktop Connection
+* connect
+* masukan password Remote Desktop Connection
+
 ## donwload nodejs
-*silahkan download nodejs di https://nodejs.org/en/download/
-*npilih sesuai dengan os masing masing
-*ikutin perintah installnya sampai beres
+* silahkan download nodejs di https://nodejs.org/en/download/
+* pilih sesuai dengan os masing masing
+* ikutin perintah installnya sampai beres
 
 ## download file bot 
 * donwload zip 
 * kemudian extract
 
 ## jalankan bot
-*buka folder file bot berada
-*buka cmd
+* buka folder file bot berada
+* buka cmd
 ### download node_module
 ```bash
  npm install
@@ -19,11 +26,11 @@
  node index.js
  ```
  ### proses auth whatsapp
- *nanti akan ada qrcode untuk login
+ * nanti akan ada qrcode untuk login
  * jadi buka cmd dengan layar full agar qr tidak terpotong
- *scan qr tersebut
- *tunggu
- *jika berhasil nanti akan muncul authenticated READY maka login anda berhasil
+ * scan qr tersebut
+ * tunggu
+ * jika berhasil nanti akan muncul authenticated READY maka login anda berhasil
  * bot berhasil berjalan
  
  
