@@ -17,6 +17,7 @@
 ## jalankan bot
 * buka folder file bot berada
 * buka cmd
+* didalam cmd ketik
 ### download node_module
 ```bash
  npm install
