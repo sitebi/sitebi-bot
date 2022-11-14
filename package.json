@@ -1,0 +1,21 @@
+{
+  "name": "sitebi",
+  "version": "1.0.0",
+  "description": "botwhatsapp for puskesmas singadaru",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp"
+  ],
+  "author": "EXSTR",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "node-schedule": "^2.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.18.1"
+  }
+}
