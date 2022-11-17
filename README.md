@@ -20,6 +20,11 @@
 * buka folder file bot berada
 * buka cmd
 * didalam cmd ketik
+```bash
+cd C:\Users\[user]\Downloads\sitebi-bot-main
+```
+* ganti [user] dengan nama komputer (dapat didapatkan dari File Explorer dengan klik kolom di samping refresh)
+![My Remote Image](https://imgur.com/VLBpLEi)
 ### download node_module
 
 
