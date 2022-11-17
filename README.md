@@ -21,7 +21,12 @@
 * buka cmd
 * didalam cmd ketik
 ### download node_module
+
 ```bash
+npm install whatsapp-web.js@* --save
+ ```
+ 
+ ```bash
  npm install
  ```
  ### jalankan bot
