@@ -25,6 +25,7 @@ cd C:\Users\[user]\Downloads\sitebi-bot-main
 ```
 * ganti [user] dengan nama komputer (dapat didapatkan dari File Explorer dengan klik kolom di samping refresh)
 ![My Remote Image](https://i.imgur.com/VLBpLEi.jpeg)
+![My Remote Image](https://i.imgur.com/86CHTyp.jpg)
 ### download node_module
 
 
